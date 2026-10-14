@@ -1,0 +1,21 @@
+{
+  "name": "motion-skill",
+  "description": "Motion, a skill for UI animation, cartoons, anime, and 3D acting.",
+  "owner": {
+    "name": "nishal21"
+  },
+  "plugins": [
+    {
+      "name": "motion",
+      "source": "./",
+      "description": "Plans and builds UI motion, cartoons, anime, and 3D acting from public style references, then scores the picture and revises until it is above 8 out of 10.",
+      "version": "1.0.0",
+      "author": {
+        "name": "nishal21"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/nishal21/motion-skill",
+      "repository": "https://github.com/nishal21/motion-skill"
+    }
+  ]
+}

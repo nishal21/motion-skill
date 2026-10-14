@@ -4,17 +4,20 @@ An agent skill for animation. It covers interface motion, motion graphics, carto
 
 ## Install
 
-From a terminal:
+skills.sh lists this repo for Cursor, Claude Code, Codex, Copilot, and the other agents that CLI supports. One install is the listing. There is no separate upload form.
 
 ```bash
 npx skills add nishal21/motion-skill
 ```
 
-In Cursor, open Customize and import this repository from GitHub:
+The skill name is `motion`.
 
-`https://github.com/nishal21/motion-skill`
-
-The skill loads as `motion`. Invoke it with `/motion`, or let the agent pick it up when you ask for animation.
+| Where | How |
+| --- | --- |
+| skills.sh | `npx skills add nishal21/motion-skill` |
+| Cursor | Customize, import `https://github.com/nishal21/motion-skill` |
+| Claude Code | `/plugin marketplace add nishal21/motion-skill` then `/plugin install motion@motion-skill` |
+| Codex | The repo root `plugin.json` is the portable plugin. Add the marketplace from this GitHub URL in the Codex plugin browser. |
 
 ## What it does
 
