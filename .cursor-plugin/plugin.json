@@ -1,0 +1,22 @@
+{
+  "name": "motion",
+  "displayName": "Motion",
+  "version": "1.0.0",
+  "description": "Plans and builds UI motion, cartoons, anime, and 3D acting from public style references, then scores the picture and revises until it is above 8 out of 10.",
+  "author": {
+    "name": "nishal21",
+    "email": "nishalamv@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nishal21/motion-skill",
+  "repository": "https://github.com/nishal21/motion-skill",
+  "keywords": [
+    "animation",
+    "motion",
+    "anime",
+    "cartoon",
+    "ui",
+    "3d"
+  ],
+  "category": "skills"
+}
