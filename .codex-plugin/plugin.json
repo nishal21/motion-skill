@@ -1,6 +1,6 @@
 {
   "name": "motion",
-  "version": "1.0.0",
-  "description": "Plans and builds UI motion, cartoons, anime, and 3D acting from public style references, then scores the picture and revises until it is above 8 out of 10.",
+  "version": "2.0.0",
+  "description": "Creates a finished, studio-quality code-drawn animated video with a synced procedural soundtrack from reference images or videos and a rough topic or story idea.",
   "skills": "./skills/"
 }

@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "motion",
-  "version": "1.0.0",
-  "description": "Plans and builds UI motion, cartoons, anime, and 3D acting from public style references, then scores the picture and revises until it is above 8 out of 10.",
+  "version": "2.0.0",
+  "description": "Creates a finished, studio-quality code-drawn animated video with a synced procedural soundtrack from reference images or videos and a rough topic or story idea.",
   "author": {
     "name": "nishal21",
     "url": "https://github.com/nishal21"
@@ -10,5 +10,5 @@
   "homepage": "https://github.com/nishal21/motion-skill",
   "repository": "https://github.com/nishal21/motion-skill",
   "license": "MIT",
-  "keywords": ["animation", "motion", "anime", "cartoon", "ui", "3d"]
+  "keywords": ["animation", "explainer", "motion-graphic", "soundtrack", "code-drawn", "motion-studio"]
 }
